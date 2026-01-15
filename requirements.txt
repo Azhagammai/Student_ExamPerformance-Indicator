@@ -1,0 +1,6 @@
+#python pypi
+pandas
+numpy
+seaborn
+# automatically trigger setup.py
+-e .

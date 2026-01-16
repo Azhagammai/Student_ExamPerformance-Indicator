@@ -35,3 +35,23 @@ git status - shows which are added
 git commit -m "message"
 
 git push -u origin main
+
+
+create a components folder inside the src
+
+- data_ingestion.py
+- data_transformation.py
+- model_trainer.py
+
+create a pipeline folder
+- train_pipeline.py
+- predict_pipeline.py 
+- __init__.py
+
+inside the src folder
+-- logger.py
+-- exception.py
+-- utils.py
+
+
+# Project - Student performer indicater

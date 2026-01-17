@@ -55,3 +55,25 @@ inside the src folder
 
 
 # Project - Student performer indicater
+
+- notebook folder setup 
+
+# Data ingestion
+- data_ingestion.py
+
+# install the .dotenv
+pip install python-dotenv
+
+
+- run on the command prompt then it will create the arti  folder - it combine and run the utils.py
+
+
+# Data Transformtion 
+- data_transformation.py 
+
+# data utils
+- utils.py
+
+# model training and evaluation
+
+- model_trainer.py

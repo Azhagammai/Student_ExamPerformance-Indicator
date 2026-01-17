@@ -2,5 +2,14 @@
 pandas
 numpy
 seaborn
+python-dotenv
+mysql-connector-python
+pymysql
+scikit-learn
+seaborn
+catboost
+xgboost
+mlflow
+#-e .
 # automatically trigger setup.py
--e .
+# -e .

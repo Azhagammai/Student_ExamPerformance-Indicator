@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/DS_End_To_End_Project/src/components/mlruns/0/130a5e911c33453a99dd579cbcf45dec/artifacts
+end_time: 1768564952358
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 130a5e911c33453a99dd579cbcf45dec
+run_name: merciful-gull-562
+run_uuid: 130a5e911c33453a99dd579cbcf45dec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768564943488
+status: 3
+tags: []
+user_id: ADMIN

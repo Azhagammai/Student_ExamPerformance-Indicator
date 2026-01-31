@@ -291,6 +291,15 @@ static/style.css
 
 ---
 
+# Application Output
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/37395bb3-71dd-4b32-a405-f4d45fe97685" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c40e6725-85c7-4f45-b2f7-837341b928e0" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4b030525-8da3-4174-bf02-3053ade1dd15" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/225cf447-5b62-457e-851d-630aabe310ef" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b4499b57-7ebb-4858-8039-85e6ccd545fb" />
+
+---
+
 # 🧠 Machine Learning Model
 
 * Built using scikit-learn

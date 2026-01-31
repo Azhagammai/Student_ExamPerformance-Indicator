@@ -297,6 +297,7 @@ static/style.css
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4b030525-8da3-4174-bf02-3053ade1dd15" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/225cf447-5b62-457e-851d-630aabe310ef" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b4499b57-7ebb-4858-8039-85e6ccd545fb" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ea70ddda-18d2-46f8-b36a-839f46b72508" />
 
 ---
 
